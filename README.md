@@ -1,4 +1,4 @@
-# 🎬 Movie Review Sentiment Analysis (SVM + Tkinter)
+# 🎬 Movie Review Sentiment Analysis
 
 This project is a sentiment analysis tool for IMDB movie reviews using **Support Vector Machines (SVM)** and **TF-IDF vectorization**.  
 It includes a simple **Tkinter GUI** where users can enter their own movie review and get a real-time prediction: **Positive 😊** or **Negative 😞**.
