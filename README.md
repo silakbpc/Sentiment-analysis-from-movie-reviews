@@ -32,12 +32,6 @@ It includes a simple **Tkinter GUI** where users can enter their own movie revie
   - seaborn  
   - tkinter (comes built-in with Python)
 
-Install all required libraries with:
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## ▶️ How to Run
